@@ -1,0 +1,4 @@
+The idea here is to create an application that citizens can use to submit pressing issues, grievances, and suggestions to elected officials.
+Once the submission window is closed, people can vote/endorse submissions for a similarly limited amount of time.
+At some point, lawmakers address submissions via various means; (ideally for citizens) resulting in legislature or
+(ideally for lawmakers) resulting in proof that the submission is already addressed by other means and communication to the submitter.
