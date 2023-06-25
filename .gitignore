@@ -1,0 +1,6 @@
+src/Api/bin
+src/Api/obj
+*.user
+*.suo
+_ReSharper.*
+*.sln.cache
