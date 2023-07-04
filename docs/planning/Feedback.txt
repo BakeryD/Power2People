@@ -1,0 +1,7 @@
+    - Speak to local representitives; If I want to solve a problem, it would be a good idea to get the perspective of the people who are actively
+dealing with said problem and figure out why they aren't able to solve it effectively.
+
+    - use geolocation to figure stuff out; I would bet money that 99% of people cannot name all of their local representitives off the top of their head,
+and a similar amount probably do not know their federal representitives. It seems to be an industry standard to automatically determine location to some degree,
+so this should probably be a feature, but if you want to manually specify it, go ahead.
+
