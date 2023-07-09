@@ -1,6 +1,8 @@
-src/Api/bin
-src/Api/obj
+src/server/bin
+src/server/obj
 *.user
 *.suo
 _ReSharper.*
 *.sln.cache
+src/app/node_modules/**
+.idea/**
